@@ -89,7 +89,7 @@
 ## RGB-D mapping
 [3D indoor scene modeling from RGB-D data: a survey](http://cg.cs.tsinghua.edu.cn/papers/CVMJ-2015-scene-moddeling.pdf) K. Chen, YK. Lai and SM. Hu. Computational Visual Media 2015.
 
-[State of the Art on 3D Reconstruction with RGB-D Cameras](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf) K. Hildebrandt and C. Theobalt EUROGRAPHICS 2018.
+[State of the Art on 3D Reconstruction with RGB-D Cameras](https://zollhoefer.com/papers/EG18_RecoSTAR/page.html) K. Hildebrandt and C. Theobalt EUROGRAPHICS 2018.
 
 ## All in one tutorial
 
@@ -421,7 +421,7 @@ R. Shah, A. Deshpande, P. J. Narayanan. 3DV 2014. -> [Multistage SFM: A Coarse-t
 |[CGAL](http://www.cgal.org/) | C++ |  Module dependent GPL/LGPL |
 |[InstantMesh](https://github.com/wjakob/instant-meshes) Mesh Simplification| C++ | BSD License |
 |[GEOGRAM](http://alice.loria.fr/software/geogram/doc/html/index.html) | C++ | Revised BSD License |
-|[libigl](http://libigl.github.io/libigl/tutorial/tutorial.html)| C++ | MPL2 |
+|[libigl](https://libigl.github.io/tutorial/)| C++ | MPL2 |
 |[Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library)| C++ | MIT License |
 |[Open3D](https://github.com/IntelVCL/Open3D/)| C++ | MIT License |
 |[OpenMesh](http://www.openmesh.org/) | C++ | BSD 3 clause license|
